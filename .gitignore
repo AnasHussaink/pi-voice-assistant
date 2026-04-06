@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Vosk model (too large for GitHub)
+vosk-model*/
+*.zip
+
+# Audio test files
+*.wav
+*.mp3
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables / secrets
+.env
+*.key
+token.json
+credentials.json
+
+# Logs
+*.log
