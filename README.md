@@ -77,29 +77,7 @@ Build a fully working voice assistant on Raspberry Pi 3 that can:
 | SD / DOUT | GPIO20 (Pin 38) |
 | L/R | GND (Pin 6) |
 
----
 
-## 📁 Project Structure
-
-```
-pi-voice-assistant/
-│
-├── README.md               ← You are here
-├── PROGRESS.md             ← Step-by-step build diary
-│
-├── code/
-│   └── assistant_stage2.py ← Main assistant script
-│
-├── docs/
-│   ├── hardware_setup.md   ← Wiring and hardware guide
-│   ├── software_setup.md   ← Installation steps
-│   └── future_plans.md     ← Roadmap and upcoming features
-│
-└── notes/
-    └── problems_and_solutions.md  ← Bugs found and fixes applied
-```
-
----
 
 ## 🚀 Supported Voice Commands
 
